@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThirdTask Flags</string>
+    <string name="austria_label">Austria</string>
+    <string name="poland_label">Poland</string>
+    <string name="italy_label">Italy</string>
+    <string name="columbia_label">Columbia</string>
+    <string name="switzerland_label">Switzerland</string>
+    <string name="denmark_label">Denmark</string>
+    <string name="thailand_label">Thailand</string>
+    <string name="madagascar_label">Madagascar</string>
+</resources>
